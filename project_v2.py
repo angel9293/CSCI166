@@ -1,3 +1,9 @@
+"""
+Luis Berber
+CSCI 166
+December 11, 2020
+"""
+
 import numpy as np
 import random
 import matplotlib.pyplot as plt
